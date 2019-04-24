@@ -14,3 +14,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 # Table of Contents
 [Predict Movies performance](https://github.com/swaptwap/MachineLearningUsingPython/tree/master/Predicting%20movies%20performance)
+![Movies.jpg](Images/Movies.jpg)
+The Internet Movie Database (IMDb) is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more.
+
+[Link for Jupyter notebook]
