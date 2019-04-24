@@ -1,4 +1,6 @@
 # MachineLearningUsingPython
+![ML1.jpg](Images/ML1.jpg)
+
 Repository to hold projects related to machine learning and python
 
 Machine Learning is a latest buzzword floating around. It desrves to, as it is one of the most interesting subfield of Computer Science.
