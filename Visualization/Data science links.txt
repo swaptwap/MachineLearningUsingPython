@@ -1,0 +1,68 @@
+https://docs.google.com/spreadsheets/d/1hHqqJmvq2PmMw0vFlYDl3gqsWra686ueG_FUsF2xP7w/edit?usp=sharing
+
+
+course:
+
+1. Statistics (basics) - Textbook (Complete Business Statistics -by Amir Aczel and Jayavel Sounderpandian ) or you may go for edx free course on Probability and Statistics in Data science.
+
+https://www.edx.org/course/probability-and-statistics-in-data-science-using-python
+
+2. Linear Algebra - I found the following course helpful . Complete linear algebra: theory and implementation .
+https://www.udemy.com/linear-algebra-theory-and-implementation/
+
+3. Basic Python course : You can learn it free from numerous resources online .
+
+4. Basic R course : You can learn it from any resource online
+
+I have given you an unbiased review from my side .
+
+
+garbage collection
+pass by valu and pass by ref in python
+print(open().read())
+
+ppss
+sample stats
+parameter populations
+
+codinggame.com/ide/puzzle/onboarding
+https://www.codingame.com/start
+
+
+------------------------------------------- Insaid: --------------------------------------------
+Your username: Swapnil618
+Password: Dataleader@123
+
+
+1. Click here or use zoom link - https://zoom.us/j/350071218
+2. Type in your name, email id to join 
+
+Webinar ID: 350-071-218
+
+---------------------------------
+
+http://insaid.acemlnb.com/lt.php?s=462b78931ce1351a5fa44797275aec90&i=968A1506A164A5985
+
+introduce
+https://community.insaid.co/hc/en-us/community/posts/360014623354-Data-Leaders-of-Tomorrow-Introduce-Yourself
+
+whatsapp:
+https://chat.whatsapp.com/JKMydkrIBgLFqQVnXNOlZO
+
+Srinivas Pitadi
+https://www.krtrimaiq.com/
+
+Robot:
+https://www.youtube.com/watch?v=gn4nRCC9TwQ
+
+stats
+https://www.amazon.in/Complete-Business-Statistics-Amir-Aczel/dp/0071077901
+
+https://igniteoutsourcing.com/fintech/machine-learning-in-finance/
+Nabih Ibrahim Bawazir
+
+Suchit links?
+https://github.com/insaid2018/Term-1/tree/master/Data/Projects
+
+
+
